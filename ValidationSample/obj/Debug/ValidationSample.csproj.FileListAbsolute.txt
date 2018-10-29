@@ -1,0 +1,10 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\bin\Debug\ValidationSample.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\bin\Debug\ValidationSample.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\bin\Debug\ValidationSample.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.Form1.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.Properties.Resources.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.csproj.GenerateResource.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\ValidationSample\ValidationSample\obj\Debug\ValidationSample.pdb
